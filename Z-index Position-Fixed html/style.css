@@ -1,0 +1,19 @@
+body{
+    background: url("http://www.uksoftech.com/wp-content/uploads/2016/02/website-design-background.png") no-repeat center center fixed;
+    background-size: cover;
+    color: #ffffff;
+}
+h1{
+    left: 170px;
+    background-color: red;
+    z-index: -5;
+position: fixed;
+top: -15px;
+}
+div{
+    margin: 10px;
+    text-align: justify;
+    width: 200px;
+    float: left;
+    /*background: url("http://www.uksoftech.com/wp-content/uploads/2016/02/website-design-background.png") no-repeat center center fixed;*/
+}
